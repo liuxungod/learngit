@@ -1,2 +1,0 @@
-test.txt
-My stupid boss still prefers SVN.
